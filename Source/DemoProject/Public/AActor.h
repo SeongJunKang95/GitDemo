@@ -13,5 +13,5 @@ public:
 	
 	AAActor();
 
-
+	virtual void BeginPlay() override;
 };
